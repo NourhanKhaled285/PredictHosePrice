@@ -1,3 +1,3 @@
 # PredictHosePrice
 
-using linear regression Machine Learning Algorithm.
+using linear Regression **Machine Learning** Algorithm.
