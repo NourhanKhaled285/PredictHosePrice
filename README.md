@@ -1,3 +1,5 @@
 # PredictHosePrice
 
-using linear Regression **Machine Learning** Algorithm.
+Using **House DataSet**.
+
+Using linear Regression **Machine Learning** Algorithm.
